@@ -1,0 +1,16 @@
+{
+  "name": "GoStackDeasafioConceitosdoNodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rafa20402/GoStackDeasafioConceitosdoNodeJS.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
